@@ -1,0 +1,39 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,fork_png,pudding_png",
+			"name": "preload"
+		},
+		{
+			"keys": "fork_png,pudding_png",
+			"name": "ui"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/fork.png",
+			"type": "image",
+			"name": "fork_png"
+		},
+		{
+			"url": "assets/pudding.png",
+			"type": "image",
+			"name": "pudding_png"
+		}
+	]
+}
